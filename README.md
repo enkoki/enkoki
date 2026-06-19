@@ -1,13 +1,9 @@
 ![Header](./images/header.png)
 
 <div align="center">
-  <a href="https://reasondahal.com.np">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://reasondahal.com.np">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
+  <a href="https://reasondahal.com.np"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://reasondahal.com.np"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+</div>       
 
 ```bash
 echo "Languages and Tools"
