@@ -1,18 +1,12 @@
-![Header](./images/header.png)
+<!-- ![Header](./images/header.png) -->
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1000&repeat=false&backgroundOpacity=0&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Reason+Dahal%22%2C%22color%22%3A%22%236297c9%22%2C%22fontSize%22%3A60%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22but+i+prefer+to+use+rijan%22%2C%22color%22%3A%22%236297c9%22%2C%22fontSize%22%3A40%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22500%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 <div align="center">
+  
   <a href="https://reasondahal.com.np"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://reasondahal.com.np"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=enkoki&color=000000&style=for-the-badge)
-  
 </div>       
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=enkoki&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3&custom_title=enkoki%27s%20stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enkoki&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
-</p>
-
 
 ![Typing SVG](https://typingsvg.vercel.app/api/svg?width=900&height=50&repeat=false&backgroundColor=%23151b23&center=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22echo+%5C%22Languages+and+Tools%5C%22%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%236dace4%22%2C%22fontSize%22%3A12%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.5%7D%5D)
 
@@ -48,6 +42,18 @@
 
 ![Typing SVG](https://typingsvg.vercel.app/api/svg?width=900&height=50&repeat=false&backgroundColor=%23151b23&center=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22echo+%5C%22Contributions%5C%22%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%236dace4%22%2C%22fontSize%22%3A12%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.5%7D%5D)
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=enkoki&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3&custom_title=enkoki%27s%20stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enkoki&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
+</p>
+
+![Typing SVG](https://typingsvg.vercel.app/api/svg?width=900&height=50&repeat=false&backgroundColor=%23151b23&center=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22echo+%5C%22Contributions%5C%22%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%236dace4%22%2C%22fontSize%22%3A12%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.5%7D%5D)
+
 <img src="https://raw.githubusercontent.com/enkoki/enkoki/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=enkoki&color=000000&style=for-the-badge)
+  
+</div>
